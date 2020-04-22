@@ -1,2 +1,3 @@
 # LexicalAnalyzer
- Aplikasi Sederhana Java: Lexical Analyzer Tugas Besar TBA (Teori Bahasa & Automata)
+ Aplikasi Sederhana Java untuk memenuhi Tugas Besar TBA (Teori Bahasa & Automata) <br>
+ Lexical Analyzer
